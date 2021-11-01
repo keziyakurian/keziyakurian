@@ -14,7 +14,8 @@ link to my portfolio/website
    (yes portfolio is getting ready, give me sometime)
 
 Skills: MACHINE LEARNING / PYTHON / JS / HTML / CSS
-tools: VSCODE / QISKIT 
+
+Tools: VSCODE / QISKIT 
 
 
 
