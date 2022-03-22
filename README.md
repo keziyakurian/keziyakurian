@@ -2,13 +2,7 @@
 ### Hey👋  README? I FEEL ATTACKED
 
 
-
-- you already know my name, it's like right there 
-- I am a Third year Computer Science Engineering student from Karnataka, India. I do code, I don't wanna restrict myself to a specific domain so I learn whatever I like. Instead of being good at one domain, now I'm bad at multiple domains (gg i played myself)
-- Honestly I'm making this readme thingy to keep me motivated to do the dream readme on github that is a long list of languages and tools I know (just kill me already). I have decided to do projects on cloud technologies, build website, devolop softwares and so on 
-- let's just pretend all my projects are private for now (I need emotional support here)
-
-
+ I am a Third year Computer Science Engineering student from Karnataka, India. I do code, I don't wanna restrict myself to a specific domain so I learn whatever I like. Instead of being good at one domain, now I'm bad at multiple domains (gg i played myself)
 
 link to my portfolio/website 
    (yes portfolio is getting ready, give me sometime)
