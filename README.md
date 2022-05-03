@@ -7,7 +7,7 @@
 link to my portfolio/website 
    (yes portfolio is getting ready, give me sometime)
 
-Skills: MACHINE LEARNING / PYTHON / JS / HTML / CSS
+Skills: PYTHON / JS / HTML / CSS
 
 Tools: VSCODE/ FIGMA / QISKIT 
 
